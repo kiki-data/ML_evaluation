@@ -10,6 +10,8 @@ https://christophm.github.io/interpretable-ml-book/
 
 AI Explainability 360 Open Source Toolkit --- https://aix360.mybluemix.net/
 
+Using ML for Operational Decisions --- https://towardsdatascience.com/solving-machine-learnings-last-mile-problem-for-operational-decisions-65e9f44d82b
+
 Explaining the predictions of any machine learning classifier --- https://github.com/marcotcr/lime
 
 ELI5 is a Python library which allows to visualize and debug various Machine Learning models --- https://eli5.readthedocs.io/en/latest/
