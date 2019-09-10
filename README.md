@@ -2,15 +2,15 @@
 
 This project identifies sources for evaluation of machine learning models.
 
-Evaluating Machine Learning Models Alice Zheng
+Evaluating Machine Learning Models (book) Alice Zheng
 http://www.pindex.com/uploads/post_docs/evaluating-machine-learning-models(PINDEX-DOC-6950).pdf
 
-Interpretable Machine Learning Christopher Molnar
+Interpretable Machine Learning (book) Christopher Molnar
 https://christophm.github.io/interpretable-ml-book/
 
 AI Explainability 360 Open Source Toolkit --- https://aix360.mybluemix.net/
 
-Using ML for Operational Decisions --- https://towardsdatascience.com/solving-machine-learnings-last-mile-problem-for-operational-decisions-65e9f44d82b
+Using ML for Operational Decisions (article) --- https://towardsdatascience.com/solving-machine-learnings-last-mile-problem-for-operational-decisions-65e9f44d82b
 
 Explaining the predictions of any machine learning classifier --- https://github.com/marcotcr/lime
 
