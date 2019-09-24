@@ -15,6 +15,7 @@ Using ML for Operational Decisions (article) --- https://towardsdatascience.com/
 Explaining the predictions of any machine learning classifier --- https://github.com/marcotcr/lime
 
 ELI5 is a Python library which allows to visualize and debug various Machine Learning models --- https://eli5.readthedocs.io/en/latest/
+Example article showing ELI5 --- https://towardsdatascience.com/adding-interpretability-to-multiclass-text-classification-models-c44864e8a13b
 
 InterpretML is an open-source python package for training interpretable models and explaining blackbox systems --- https://github.com/microsoft/interpret
 
