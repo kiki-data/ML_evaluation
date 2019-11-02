@@ -2,6 +2,9 @@
 
 This project identifies sources for evaluation of machine learning models.
 
+Evaluation Metrics
+https://www.kdnuggets.com/2019/10/5-classification-evaluation-metrics-every-data-scientist-must-know.html
+
 Evaluating Machine Learning Models (book) Alice Zheng
 http://www.pindex.com/uploads/post_docs/evaluating-machine-learning-models(PINDEX-DOC-6950).pdf
 
