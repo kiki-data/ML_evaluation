@@ -11,6 +11,8 @@ http://www.pindex.com/uploads/post_docs/evaluating-machine-learning-models(PINDE
 Interpretable Machine Learning (book) Christopher Molnar
 https://christophm.github.io/interpretable-ml-book/
 
+[`metriculous`](https://github.com/metriculous-ml/metriculous), a library to evaluate, compare, and visualize machine learning model performance: https://github.com/metriculous-ml/metriculous 
+
 AI Explainability 360 Open Source Toolkit --- https://aix360.mybluemix.net/
 
 Using ML for Operational Decisions (article) --- https://towardsdatascience.com/solving-machine-learnings-last-mile-problem-for-operational-decisions-65e9f44d82b
